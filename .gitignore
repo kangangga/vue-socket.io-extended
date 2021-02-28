@@ -1,9 +1,12 @@
-.DS_Store
-node_modules/
-npm-debug.log
-.idea/
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
 
-# Release notes
-RELEASE_NOTE*.md
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
 
-coverage/
